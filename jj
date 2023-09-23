@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yaster's Personal Webpage</title>
+    <style>
+        body {
+            background-color: black;
+            color: white;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            padding: 20px;
+            background-color: #333;
+        }
+        h1 {
+            font-size: 36px;
+        }
+        p {
+            font-size: 18px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Yaster's Personal Webpage</h1>
+    </header>
+    <main>
+        <section>
+            <h2>About Me</h2>
+            <p>Hello, I'm Yaster. I'm passionate about dancing, and it's one of my favorite hobbies.</p>
+        </section>
+    </main>
+</body>
+</html>
